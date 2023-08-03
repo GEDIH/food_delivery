@@ -98,7 +98,6 @@ export default class AddMenuItems extends Component {
             }
         }
     }
-
     render() {
         const { itemImageLable, showError, registerFormError } = this.state;
         return (
