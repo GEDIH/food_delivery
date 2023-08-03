@@ -8,6 +8,31 @@
 ![image](https://github.com/GEDIH/food_delivery/assets/117825147/a912caf7-5f11-44c8-8dd4-5bd51cf4233b)
 
 
+Front End
+* React components handling routing
+* Material UI for consistent styling
+* API calls to manipulate database
+
+REST API
+* GET, POST, PUT requests handled
+* CRUD manipulation through REST API
+* CSV formatted jobs applied
+
+Relational Database
+* Handled with ORM (SQLAlchemy)
+* Model system with base model handling identification
+* Many to many relationship for users and rewards
+
+Server / Deployment
+* Nginx / Gunicorn
+* AWS EC2 on Ubuntu 16.04
+  ### **## Author
+### **Hambisa Adamu**
+[hambisaadamu](https://github.com/GEDIH.io)
+
+
+Hambisa is a full stack softwar engineer taking charge of the design and React portions of Oromia bank job search while still being heavily involved in the backend database and API work as well. working on the system design, database, and REST API for the most part with some fingerprints in the frontend in order to better understand and integrate the backend into the whole picture. 
+    
 
 ## Getting Started
 
