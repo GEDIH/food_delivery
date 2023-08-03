@@ -1,6 +1,7 @@
 > ✨ **Note:** This is an opensource Web Application for [Food Devlivery](https://react-quick-food.firebaseapp.com/).
 
 ### [Live demo](https://react-quick-food.firebaseapp.com/)
+![image](https://github.com/GEDIH/food_delivery/assets/117825147/f7ffd671-701b-4683-88c1-e56914d3b58b)
 
 ## Getting Started
 
