@@ -2,6 +2,7 @@
 
 ### [Live demo](https://react-quick-food.firebaseapp.com/)
 
+![image](https://github.com/GEDIH/food_delivery_in_Addis_Ababa/assets/117825147/02b6d3bd-5e0a-425f-a506-367a66ede338)
 
 
 ## Getting Started
